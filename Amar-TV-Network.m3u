@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shahriarhasan55226644/8k9k6k2k4k.m3u/refs/heads/main/Glossy%20Amar%20TV%20Network%20Emblem.png" group-title="Bangladesh",BTV National
+https://btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shahriarhasan55226644/8k9k6k2k4k.m3u/refs/heads/main/Glossy%20Amar%20TV%20Network%20Emblem.png" group-title="Bangladesh",BTV Chattogram
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shahriarhasan55226644/8k9k6k2k4k.m3u/refs/heads/main/Glossy%20Amar%20TV%20Network%20Emblem.png" group-title="Bangladesh",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shahriarhasan55226644/8k9k6k2k4k.m3u/refs/heads/main/Glossy%20Amar%20TV%20Network%20Emblem.png" group-title="Bangladesh",Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shahriarhasan55226644/8k9k6k2k4k.m3u/refs/heads/main/Glossy%20Amar%20TV%20Network%20Emblem.png" group-title="Bangladesh",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shahriarhasan55226644/8k9k6k2k4k.m3u/refs/heads/main/Glossy%20Amar%20TV%20Network%20Emblem.png" group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
